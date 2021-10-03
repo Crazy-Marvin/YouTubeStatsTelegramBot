@@ -1,6 +1,6 @@
 [![Telegram Product Hunt Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/YouTubeStatisticsTelegramBot)
 [![GitHub Actions](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/actions/workflows/ci.yml/badge.svg)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/actions/workflows/ci.yml)
-![healthchecks.io](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2F31QvRDxH%2FProductHunt.shields)
+![healthchecks.io](https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/mtzkGiJc-2/YouTubeStats.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/YouTubeStatsTelegramBot)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/blob/trunk/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/YouTubeStatsTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/YouTubeStatsTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/releases)
@@ -31,6 +31,7 @@ feedback - This lets you give feedback 👺
 - SSL certificate (I recommend [Let's Encrypt](https://letsencrypt.org/))
 - Webserver running [Python](https://www.python.org) (tested with [Apache](https://httpd.apache.org/) & [NGINX](https://www.nginx.com/) but others should work too)
 - API key from YouTube
+- Google Cloud service account credentials (JSON) for accessing Google Sheets API & Google Drive API
 - [Sentry](https://docs.sentry.io/platforms/python/) key (optional)
 - [Healthchecks](https://healthchecks.io/#php) URL (optional)
 
