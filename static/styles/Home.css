@@ -1,0 +1,261 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 676px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 594px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.125rem;
+  line-height: 32.4px;
+  margin: 0 1px 0 10px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  font-weight: normal;
+  margin: 38px 10px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  margin: 38px auto 0;
+  padding: 9px 20px 10px 19px;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 594px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 594px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 29px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: bold;
+  font-size: 3rem;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 397px;
+  height: 397px;
+  background-image: url("/static/images/bot_icon.jpg");
+  background-position: 50% 50%;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1rem;
+  letter-spacing: 0px;
+  font-style: italic;
+  text-align: left;
+  margin: 12px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-style: italic;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 678px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 657px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: 700;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 617px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 657px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-bottom: 30px;
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+    margin-top: 47px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 321px;
+    height: 321px;
+    margin-top: 48px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 48px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1032px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 49px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 307px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 22px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 581px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 29px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 3rem;
+    width: 430px;
+    margin-top: 24px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 367px;
+    width: 367px;
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1128px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 427px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 1px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 15px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1106px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 592px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 1px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 11px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+    width: 320px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 320px;
+    width: 320px;
+  }
+}
