@@ -6,7 +6,7 @@ import google_auth_oauthlib.flow
 import google.oauth2.credentials
 from googleapiclient.discovery import build
 
-CLIENT_SECRETS_FILE = r"client_secrets.json"
+CLIENT_SECRETS_FILE = r"google-credentials.json" # https://devdojo.com/bryanborge/adding-google-cloud-credentials-to-heroku
 
 SCOPES = [
   "https://www.googleapis.com/auth/youtube.readonly",
