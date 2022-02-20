@@ -130,4 +130,6 @@ dmypy.json
 
 # Google Credentials
 client_secrets.json
+client-secrets.json
+google_credentials.json
 google-credentials.json
