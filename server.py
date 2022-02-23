@@ -5,6 +5,8 @@ import pyrebase
 import google_auth_oauthlib.flow
 import google.oauth2.credentials
 from googleapiclient.discovery import build
+import sentry_sdk
+sentry_sdk.init(os.environ['SENTRY_DSN'])
 
 CLIENT_SECRETS_FILE = r"google-credentials.json" # https://devdojo.com/bryanborge/adding-google-cloud-credentials-to-heroku
 
