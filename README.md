@@ -1,6 +1,6 @@
 [![Telegram YouTube Statistics Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/YouTubeStatisticsTelegramBot)
 [![GitHub Actions](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/actions/workflows/ci.yml/badge.svg)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/actions/workflows/ci.yml)
-![healthchecks.io](https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/mtzkGiJc-2/YouTubeStats.shields)
+![healthchecks.io](https://img.shields.io/endpoint?url=https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/mtzkGiJc-2/YouTubeStats.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/YouTubeStatsTelegramBot)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/blob/trunk/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/YouTubeStatsTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/YouTubeStatsTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot/releases)
