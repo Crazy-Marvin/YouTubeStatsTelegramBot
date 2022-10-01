@@ -1,6 +1,6 @@
 Flask==2.2.2
 Pyrebase4==4.5.0
-google-auth==2.11.0
+google-auth==2.12.0
 google-auth-oauthlib==0.5.2
 google-api-python-client==2.63.0
 pyTelegramBotAPI==4.7.0
