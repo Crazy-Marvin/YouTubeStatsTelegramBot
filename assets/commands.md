@@ -7,4 +7,4 @@ language - This lets you change the language 🌎
 help - This sends you a help text 🆘  
 contact - This allows contact ✍️  
 feedback - This lets you give feedback 👺  
-logs - used for analytics  
+privacy - This sends you Terms and Privacy Policy 🔐
